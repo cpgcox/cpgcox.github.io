@@ -1,0 +1,35 @@
+body {
+        				font-family: 'Rosario', sans-serif;
+        				font-size: 20px;
+        				color:#dce2e4;
+        				background-color:#4b6e75;
+        				width: 800px; margin: 0 auto; 
+      			}
+      			.byline {
+						text-align: center;      
+      			}
+      			.front_title {
+						text-align: center;      
+      			}
+      			.updated {
+						text-align: center; 
+						position: fixed; 
+						bottom: 0; 
+						width:100%; 
+						font-size:small      			
+      			}
+      			a:link {
+      				color: #dce2e4;
+      				font-weight: bold;
+      				text-decoration:none;
+      			}
+      			a:visited {
+      				color: #dce2e4;
+      				font-weight: bold;
+      				text-decoration:none;
+      			}
+      			a:hover {
+      				color: #dce2e4;
+      				font-weight: bold;
+      				text-decoration: underline;
+					}
