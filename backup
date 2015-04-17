@@ -1,0 +1,29 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html>
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1"><title>Charles Cox - Personal Website</title>
+		<link href='http://fonts.googleapis.com/css?family=Cabin:600' rel='stylesheet' type='text/css'>
+		<link href='http://fonts.googleapis.com/css?family=PT+Sans+Caption' rel='stylesheet' type='text/css'>
+		<link rel="stylesheet" type="text/css" href="style.css"/>
+	<title>Charles Cox</title>					
+	</head>
+	<body>
+	<div id="content">
+	<header>
+	<h2><a href="http://www.southampton.ac.uk/maths/postgraduate/research_students/cc14v07.page?#contact" target="_blank">Charles Cox</a></h2>
+	<p> I am a PhD maths student working with <a href="http://www.southampton.ac.uk/maths/about/staff/am1t07.page?#background" target="_blank">Dr. Armando Martino</a> 
+	at the University of Southampton. Below is my <a href="http://www.southampton.ac.uk/gradschools/newsevents/3MT.html" target="blank">3MT</a> entry.</p>
+		<div id="line-decor"></div>
+		</header>
+		
+		<iframe width="560" height="315" src="https://www.youtube.com/embed/mYc1-pEyL7c" frameborder="0" allowfullscreen></iframe>
+
+		<section>
+		<h3>More about me</h3>
+		<li> My <a href="https://cpgcox.wordpress.com/" target="_blank">blog</a>, <a href="https://drive.google.com/file/d/0B6J5u1wzRSnLaFF1V2wtY0J4SkU/view?usp=sharing"target="_blank">CV</a>, and <a href="https://drive.google.com/file/d/0B6J5u1wzRSnLaFpfaWFKbzlRTVk/view?usp=sharing"target="_blank">Teaching Statement</a></li>
+		<li> My <a href="http://arxiv.org/a/cox_c_1" target="_blank">preprints on the arXiv</a></li>
+		<li> Some <a href="https://drive.google.com/folderview?id=0B6J5u1wzRSnLfmJrTWRuRk9aWEFDMlp1ZWNBSWlRQjA1UGNJWlA4bnp4OVpSMGFNeXFxc2s&usp=sharing" target="_blank">previous work</a> and <a href="https://drive.google.com/folderview?id=0B6J5u1wzRSnLfmxaa0R2VzA2emJGamNLVWRHc3ZzYWNNbG5OSWdUazllTmdlYURrZXVUYmc&usp=sharing" target="_blank">notes for talks</a> that I have given.					
+		</section>
+		</div>
+	</body>
+</html>
